@@ -87,14 +87,13 @@ A Flutter app that fetches real-time weather data using RESTful APIs, implements
 ---
 
 ## Project Structure 🗂️
-    ``` bash
     lib/  
     ├── cubits/          # State management (e.g., weather_cubit.dart)  
     ├── models/          # Data classes (e.g., weather_model.dart)  
     ├── services/        # API services (e.g., weather_service.dart)  
     ├── views/           # Screens (e.g., home_view.dart, search_view.dart)  
     └── main.dart        # App entry point  
-    ```
+
 ---
 
 ## Key Learnings 🧠
